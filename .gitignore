@@ -130,3 +130,6 @@ dmypy.json
 
 # My lock
 /poetry.lock
+/celerybeat-schedule.bak
+/celerybeat-schedule.dat
+/celerybeat-schedule.dir
